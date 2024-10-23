@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <div className='w-11/12 flex justify-between items-center mx-auto my-5 border-b-2 gap-2'>
-        <h1 className='text-4xl font-bold'>knowledge cafe</h1>
+        <h1 className='text-3xl font-bold'>knowledge cafe</h1>
         <img src={profile} alt="" />
       </div>
       <div className='w-11/12 mx-auto flex'>

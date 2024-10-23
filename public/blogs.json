@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co.com/sb3BBQr/1.jpg",
+        "title": "Mastering JavaScript: Essential Tips for Beginner Developers",
+        "author": "Luna Green",
+        "author_img": "https://i.ibb.co.com/jhsp1BQ/boy1.png",
+        "posted_date": "2023-10-15",
+        "reading_time": 6,
+        "hashtags": ["#coding_life", "#programming_languages", "#dev_community"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co.com/48rd8c8/2.png",
+        "title": "Unlocking the Power of ES6: Modern Features Every JavaScript Developer Should Know",
+        "author": "Dr. Max Einstein",
+        "author_img": "https://i.ibb.co.com/hXyBVJ9/boy2.jpg",
+        "posted_date": "2023-09-20",
+        "reading_time": 7,
+        "hashtags": ["#code_newbie", "#software_development", " #tech_tips"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co.com/B2sr8W4/3.png",
+        "title": "Debugging JavaScript: Techniques to Tackle Common Issues",
+        "author": "Aria Sky",
+        "author_img": "https://i.ibb.co.com/BBPbMVP/girl1.jpg",
+        "posted_date": "2023-08-10",
+        "reading_time": 4,
+        "hashtags": ["#api_integration","#data_formatting","#json_tutorial"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co.com/2hf4fkG/4.jpg",
+        "title": "Building Interactive Web Applications: A Deep Dive into JavaScript Frameworks",
+        "author": "Chef Marco",
+        "author_img": "https://i.ibb.co.com/mtc8Z8c/girl2.jpg",
+         "posted_date": "2023-09-05",
+        "reading_time": 6,
+        "hashtags": ["#programming_languages","#data_serialization", "#javascript_json"]
+    }
+]
